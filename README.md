@@ -1,4 +1,6 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/66071319/152707565-35a12cf6-4797-46ae-9892-40b956a5a585.gif)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 #  [🏴‍☠️Piracy](https://fernbacher.github.io/Piracy/)
 #  [📚Linux For Beginners](https://fernbacher.github.io/linux-for-begginers/)
 #  [▶️MPV Config](https://github.com/fernbacher/mpv-config)
