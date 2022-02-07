@@ -1,3 +1,4 @@
+ ![cmgqhhxf38g81](https://user-images.githubusercontent.com/66071319/152707210-988a2ee6-7a5f-4a06-8d95-f5dfffefccf8.png)
  - [🏴‍☠️Piracy](https://fernbacher.github.io/Piracy/)
  - [📚Linux For Beginners](https://fernbacher.github.io/linux-for-begginers/)
  - [▶️MPV Config](https://github.com/fernbacher/mpv-config)
