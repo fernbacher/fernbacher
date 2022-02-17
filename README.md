@@ -5,4 +5,4 @@
 #  [📚Linux For Beginners](https://fernbacher.github.io/linux-for-begginers/)
 #  [▶️MPV Config](https://github.com/fernbacher/mpv-config)
 #  [💬Debloat Discord](https://fernbacher.github.io/debloat-discord/)
-#  [🪷Garden Links](https://github.com/fernbacher/The-Garden)
+#  [🌸Garden Links](https://github.com/fernbacher/The-Garden)
