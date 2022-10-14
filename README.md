@@ -3,6 +3,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 #  [🏴‍Piracy](https://fernbacher.github.io/Piracy/)
 #  [📚Linux For Beginners](https://fernbacher.github.io/linux-for-begginers/)
-#  [▶️MPV Config](https://github.com/fernbacher/mpv-config)
+#  [▶️MPV Config Revamped](https://github.com/fernbacher/MPV-Config-Revamped)
 #  [💬Debloat Discord](https://fernbacher.github.io/debloat-discord/)
 #  [🌸Garden Links](https://github.com/fernbacher/The-Garden)
