@@ -7,7 +7,3 @@
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Zen](https://img.shields.io/badge/Zen%20Browser-F76F53.svg?style=for-the-badge&logo=Zen-Browser&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white)
-
-
-#  [📝Blog](https://fernbacher.vercel.app/)
