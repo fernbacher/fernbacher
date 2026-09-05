@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./banner.png" width="100%" alt="banner" />
-</div>
-
-<br>
-
 ### fernbacher
 
 <br>
@@ -21,7 +15,8 @@
 
 <sub>UTC+3 · <a href="https://discord.gg/6euRsktJwR">discord</a></sub>
 
-![CachyOS](https://img.shields.io/badge/CachyOS-4B8BBE?style=flat&logo=cachyos&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Helium](https://img.shields.io/badge/Helium-00A8FF?style=flat&logo=helium&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
+<a href="https://aerynos.com"><img src="https://raw.githubusercontent.com/AerynOS/brand/main/svg/logo-dark.svg" alt="AerynOS" height="24"></a>&nbsp;&nbsp;
+<a href="https://www.vim.org"><img src="https://cdn.simpleicons.org/vim/019733" alt="Vim" height="24"></a>&nbsp;&nbsp;
+<a href="https://helium.computer"><img src="https://raw.githubusercontent.com/imputnet/helium/main/resources/branding/product_logo.svg" alt="Helium" height="24"></a>&nbsp;&nbsp;
+<a href="https://www.nvidia.com"><img src="https://cdn.simpleicons.org/nvidia/76B900" alt="NVIDIA" height="24"></a>
+
